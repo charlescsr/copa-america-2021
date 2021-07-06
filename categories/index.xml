@@ -5,10 +5,6 @@
     <link>https://charlescsr.github.io/copa-america-2021/categories/</link>
     <description>Recent content in Categories on Copa America 2021 by CSR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://charlescsr.github.io/copa-america-2021/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://charlescsr.github.io/copa-america-2021/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
